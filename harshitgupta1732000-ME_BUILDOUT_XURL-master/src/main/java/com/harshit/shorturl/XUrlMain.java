@@ -1,4 +1,4 @@
-package com.crio.shorturl;
+package com.harshit.shorturl;
 
 public class XUrlMain {
 

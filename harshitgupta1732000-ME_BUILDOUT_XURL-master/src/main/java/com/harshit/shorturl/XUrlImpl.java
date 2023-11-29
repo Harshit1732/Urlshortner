@@ -1,4 +1,4 @@
-package com.crio.shorturl;
+package com.harshit.shorturl;
 
 import java.net.MalformedURLException;
 import java.net.URL;
